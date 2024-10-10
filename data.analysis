@@ -10,3 +10,6 @@ filtered_data = data[(data['key_resp.rt'] > 0.3) & (data['key_resp.rt'] < 2.0)]
 filtered_data.to_csv("ocd_dataset/filtered_reaction_times.csv", index=False)
 
 print(f"Filtered {len(data) - len(filtered_data)} outliers based on reaction time.")
+
+
+
