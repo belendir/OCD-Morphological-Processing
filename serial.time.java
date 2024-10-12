@@ -1,0 +1,1 @@
+java --module-path "ZeynepFrust3_lib" --add-modules javafx.controls,javafx.fxml,javafx.graphics -cp "ZeynepFrust3.jar:ZeynepFrust3_lib/*" zeynepprogram.zeynebinprogram.WhackAMoleGame
