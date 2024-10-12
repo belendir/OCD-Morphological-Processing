@@ -1,0 +1,4 @@
+TimeBetweenRandoms=1.0
+NumberOfRandoms=30
+Vibration=0
+ReadingFrom=0
